@@ -1,0 +1,9 @@
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\bin\Debug\Ödev1.exe.config
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\bin\Debug\Ödev1.exe
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\bin\Debug\Ödev1.pdb
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\obj\Debug\Ödev1.Form1.resources
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\obj\Debug\Ödev1.Properties.Resources.resources
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.GenerateResource.cache
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.CoreCompileInputs.cache
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\obj\Debug\Ödev1.exe
+O:\Udemy C# Ödevleri\Ödev1\Ödev1\obj\Debug\Ödev1.pdb
